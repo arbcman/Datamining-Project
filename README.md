@@ -1,7 +1,7 @@
 # Datamining-Project
 
-"Classification:NIDS"
+# Classification:NIDS
 
-"Regression:Student Performance Predection"
+# Regression:Student Performance Predection
 
-"Association Rules:Market Basket Analysis"
+# Association Rules:Market Basket Analysis
